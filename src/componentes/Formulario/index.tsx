@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { IColaborador } from '../../compartilhado/interfaces/iColaborador'
+import { IColaborador } from '../../compartilhado/interfaces/IColaborador'
 import Botao from '../Botao'
 import CampoTexto from '../CampoTexto'
 import ListaSuspensa from '../ListaSuspensa'
